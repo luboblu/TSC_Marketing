@@ -78,22 +78,6 @@
 
 ---
 
-## 📷 系統畫面展示
-
-- **LINE 文字互動**
-  ![文字互動](path/to/fig5.png)
-- **LINE 語音互動**
-  ![語音互動](path/to/fig6.png)
-- **Gradio 多語言回應**
-  ![Gradio 中文](path/to/fig7.png)
-- **Gradio 英文回應**
-  ![Gradio 英文](path/to/fig8.png)
-- **Gradio 語音輸入**
-  ![Gradio 語音](path/to/fig9.png)
-
-> *請將 `path/to/...` 替換為實際圖片路徑*
-
----
 
 ## 🚀 快速上手
 
